@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stranger</string>
+    <string name="random_video_call">Random Video call</string>
+    <string name="talk_with_random_people_from_all_around_the_globe">Talk with Random people\nfrom all around the globe\nMake new friends and have fun!</string>
+    <string name="get_started">Get started</string>
+    <string name="please_login_to_continue">Please login to continue</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="by_continuing_you_are_agreeing_to_our_terms_and_privacy_policy">By continuing, you are agreeing to our Terms and Privacy Policy.</string>
+    <string name="you_have">You have: 50</string>
+    <string name="persons_are_looking">Persons are looking for random people, click find and talk with them.</string>
+    <string name="find">FIND</string>
+    <string name="coin">Coins: 5</string>
+    <string name="name">Chitransh Suman</string>
+    <string name="city">kota</string>
+</resources>
